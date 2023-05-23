@@ -1,0 +1,23 @@
+.Home{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.main-home{
+    width: 60%;
+    margin: 10% auto;
+    background-color: #812F33;
+    color: #FEA443;
+}
+.text-muted{
+color: #F3FEB0;}
+
+.top-list{
+    font-size: larger;
+}
+hr.hr1{
+ border-top: 4px solid #FEA443;
+}
+a, a:hover{
+    color: #FEA443;
+}
